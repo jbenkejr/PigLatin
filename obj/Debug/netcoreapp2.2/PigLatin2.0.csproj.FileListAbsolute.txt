@@ -1,0 +1,10 @@
+C:\Users\jbenk\Desktop\bootcamp2019\PigLatin2.0\bin\Debug\netcoreapp2.2\PigLatin2.0.deps.json
+C:\Users\jbenk\Desktop\bootcamp2019\PigLatin2.0\bin\Debug\netcoreapp2.2\PigLatin2.0.runtimeconfig.json
+C:\Users\jbenk\Desktop\bootcamp2019\PigLatin2.0\bin\Debug\netcoreapp2.2\PigLatin2.0.runtimeconfig.dev.json
+C:\Users\jbenk\Desktop\bootcamp2019\PigLatin2.0\bin\Debug\netcoreapp2.2\PigLatin2.0.dll
+C:\Users\jbenk\Desktop\bootcamp2019\PigLatin2.0\bin\Debug\netcoreapp2.2\PigLatin2.0.pdb
+C:\Users\jbenk\Desktop\bootcamp2019\PigLatin2.0\obj\Debug\netcoreapp2.2\PigLatin2.0.csprojAssemblyReference.cache
+C:\Users\jbenk\Desktop\bootcamp2019\PigLatin2.0\obj\Debug\netcoreapp2.2\PigLatin2.0.AssemblyInfoInputs.cache
+C:\Users\jbenk\Desktop\bootcamp2019\PigLatin2.0\obj\Debug\netcoreapp2.2\PigLatin2.0.AssemblyInfo.cs
+C:\Users\jbenk\Desktop\bootcamp2019\PigLatin2.0\obj\Debug\netcoreapp2.2\PigLatin2.0.dll
+C:\Users\jbenk\Desktop\bootcamp2019\PigLatin2.0\obj\Debug\netcoreapp2.2\PigLatin2.0.pdb
